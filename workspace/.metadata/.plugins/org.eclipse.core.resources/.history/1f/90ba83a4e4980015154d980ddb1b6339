@@ -1,0 +1,10 @@
+package project.common.commondao;
+
+import org.springframework.stereotype.Repository;
+
+import project.common.dao.AbstractDAO;
+
+@Repository("commonDAO")
+public class CommonDAO extends AbstractDAO{
+ 
+}

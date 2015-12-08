@@ -1,0 +1,5 @@
+package project.sample.service;
+
+public class SampleService {
+
+}

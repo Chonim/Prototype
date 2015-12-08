@@ -1,0 +1,11 @@
+package project.common.service;
+
+import java.util.Map;
+
+import project.common.common.CommandMap;
+
+public interface CommonService {
+	Map<String, Object> selectFileInfo(Map<String, Object> map) throws Exception;
+	
+    void login(CommandMap commandMap) throws Exception;
+}

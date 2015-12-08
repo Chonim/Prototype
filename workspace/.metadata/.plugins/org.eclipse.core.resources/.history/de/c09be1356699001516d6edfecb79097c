@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=Flamenco);
+
+/* common */
+*, *:after, *:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	 box-sizing: border-box;
+}
+
+body {
+	line-height: 1.25;
+	margin: 0;
+	color: #212121;
+}
+
+a {
+	text-decoration: none;
+	outline: none;
+}
+
+/* bootstrap custom */            
+.navbar-default {
+	margin: 0;
+}
+
+.container-fluid {
+	padding-right: 5px;
+}
+
+.navbar-default .navbar-nav>li>a {
+	font-size: 13px;
+	color: white;
+}
+.navbar-default:HOVER .navbar-nav>li>a:HOVER {
+	color: #FF415C;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+	color: white;
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+}
+.navbar-default:HOVER .navbar-brand:HOVER {
+	color: #FF415C;
+}
+
+span.glyphicon.glyphicon-user,
+span.glyphicon.glyphicon-log-in {
+}
+
+.modal-body {
+	text-align: right;
+}
+
+.form-control {
+	display: inline-block;
+	width: 200px;	
+}
+
+.modal-header {
+	background: #3A5796;
+	color: white;
+	border-radius: 4px 4px 0 0;
+}
+
+.modal-header .close {
+	color: white;
+	opacity: 1;
+}
+
+.form-group {
+	margin-bottom: 7px;
+}
+
+.form-control {
+	margin-bottom: 7px;
+}
+
+#joinIdCheck, #passwordCheck {
+	font-size: 12px;
+}
+
+.navbar-default {
+	background: #3A5796;
+	border: 0;
+	border-radius: 0;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+	background-color: transparent;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: white;
+}	

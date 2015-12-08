@@ -1,0 +1,76 @@
+1448946267591	Move 'index.jsp' to 'views'
+1448946289544	Move 'index.jsp' to 'WEB-INF'
+1448946329378	Move 'index.jsp' to 'webapp'
+1448956320149	Move 'servlet-context.xml' to 'config'
+1448956328668	Rename resource 'servlet-context.xml'
+1448956335990	Delete element
+1448957062007	Delete element
+1448957486493	Move 'SampleController.java' to 'sample.controller'
+1448958235133	Delete element
+1448958654122	Delete element
+1448958656525	Delete element
+1448958699877	Rename resource 'sample.controller'
+1448958714226	Rename resource 'project.sample.controller'
+1448958742963	Rename resource 'sample.controller'
+1448958750290	Move 'SampleController.java' to 'controller'
+1448960396294	Delete elements
+1448960761619	Move 'servlet-context.xml' to 'config'
+1448960772195	Rename resource 'servlet-context.xml'
+1448960779551	Delete element
+1448961732379	Delete element
+1448963805789	Delete element
+1448964318481	Delete element
+1448965423844	Delete element
+1448965448285	Delete element
+1448965474695	Delete element
+1448965601753	Delete elements
+1448965836936	Delete element
+1448965839154	Delete element
+1448965843123	Delete element
+1448966060929	Rename type 'SampleService'
+1448966119263	Rename compilation unit 'SampleServicempl.java'
+1448968936635	Rename resource 'board.jsp'
+1449037368187	Delete element
+1449037434015	Copy package
+1449037440590	Copy package
+1449037444311	Delete elements
+1449038649094	Copy file
+1449054348562	Move compilation unit
+1449054353357	Delete element
+1449059098408	Delete element
+1449059748390	Delete element
+1449110685661	Move compilation unit
+1449110730508	Move compilation unit
+1449110739509	Move compilation unit
+1449110745632	Move compilation unit
+1449110749325	Move compilation unit
+1449110755087	Move compilation unit
+1449110766887	Move compilation unit
+1449110769548	Move compilation unit
+1449110773928	Move compilation unit
+1449110778337	Move compilation unit
+1449110781233	Move compilation unit
+1449110784920	Move compilation unit
+1449110787559	Move compilation unit
+1449116581058	Move compilation units
+1449117250744	Delete element
+1449117425626	Move compilation unit
+1449117430170	Move compilation unit
+1449117434377	Move compilation unit
+1449117477593	Move compilation unit
+1449117486909	Move compilation units
+1449117499188	Move compilation units
+1449117502841	Move compilation units
+1449117515363	Move compilation units
+1449117525429	Move compilation units
+1449117530855	Move compilation unit
+1449117537382	Move compilation units
+1449118099148	Delete elements
+1449121592062	Move 'test.jsp' to 'sample'
+1449133538979	Delete element
+1449144962632	Delete element
+1449191575359	Rename resource '네이버 아이디로 로그인_로그아웃_Green.PNG'
+1449191579160	Rename resource '네이버 아이디로 로그인_완성형_Green.PNG'
+1449191610846	Rename resource 'naver-login.PNG'
+1449191614574	Rename resource 'naver-logout.PNG'
+1449193641240	Delete elements

@@ -1,0 +1,10 @@
+package project.sample.dao;
+
+import org.springframework.stereotype.Repository;
+
+import project.common.dao.AbstractDAO;
+ 
+@Repository("sampleDAO")
+public class SampleDAO extends AbstractDAO {
+ 
+}

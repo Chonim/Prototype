@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+externalMigrateFromAuthorizationDatabase/isMigrated=true
+migrateFromAuthorizationDatabase/isMigrated=true
+repositories/50b962de4e9d00151e7ab74335887988=50b962de4e9d00151e7ab74335887988;http\://192.168.1.25/svn/ds;http\://192.168.1.25/svn/ds;branches;tags;trunk;true;d6817e99-1517-7544-80d6-0f8255c434b9;http\://192.168.1.25/svn/ds;;false;;;0

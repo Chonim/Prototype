@@ -1,0 +1,148 @@
+@import url(https://fonts.googleapis.com/css?family=Flamenco);
+
+/* common */
+*, *:after, *:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	 box-sizing: border-box;
+}
+
+body {
+	line-height: 1.25;
+	margin: 0;
+	color: #212121;
+}
+
+a {
+	text-decoration: none;
+	outline: none;
+}
+
+.home-body {
+	text-align: center;
+	display: block;
+	height: 300px;
+}
+
+/* bottom */
+.home-bottom {
+	line-height: 50px;
+	width: 100%;
+	bottom: 0;
+	text-align: center;
+	position: absolute;
+	font-size: 12px;
+	display: block;
+	
+	color: #EAEAEA;
+}
+
+/* PULSE */
+span.fa-heart {
+    color: #ff415c;
+    font-size: 13px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.pulse2 {
+  -webkit-animation-name: pulse2;
+          animation-name: pulse2;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+          animation-timing-function: linear; }
+
+@-webkit-keyframes pulse2 {
+  0% {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1); }
+  50% {
+    -webkit-transform: scale(0.8);
+            transform: scale(0.8); }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1); } }
+
+@keyframes pulse2 {
+  0% {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1); }
+  50% {
+    -webkit-transform: scale(0.8);
+            transform: scale(0.8); }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1); } }
+
+/* bootstrap custom */            
+.navbar-default {
+	margin: 0;
+}
+
+.container-fluid {
+	padding-right: 5px;
+}
+
+.navbar-default .navbar-nav>li>a {
+	font-size: 13px;
+	color: white;
+}
+.navbar-default:HOVER .navbar-nav>li>a:HOVER {
+	color: #FF415C;
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+}
+.navbar-default:HOVER .navbar-brand:HOVER {
+	color: #FF415C;
+}
+
+span.glyphicon.glyphicon-user,
+span.glyphicon.glyphicon-log-in {
+}
+
+.modal-body {
+	text-align: right;
+}
+
+.form-control {
+	display: inline-block;
+	width: 200px;	
+}
+
+.modal-header {
+	background: #3A5796;
+	color: white;
+	border-radius: 4px 4px 0 0;
+}
+
+.modal-header .close {
+	color: white;
+	opacity: 1;
+}
+
+.form-group {
+	margin-bottom: 7px;
+}
+
+.form-control {
+	margin-bottom: 7px;
+}
+
+#joinIdCheck, #passwordCheck {
+	font-size: 12px;
+}
+
+.navbar-default {
+	background: #3A5796;
+	border: 0;
+	border-radius: 0;
+}
+
+span.icon-bar {
+	color: white;
+}
